@@ -1,3 +1,9 @@
+## Re-skinning
+
+Forked with intentions of uploading my version, an edit of all-over looks.
+
+
+
 # ![icon](http://hydrogen-music.org/images/favicon.png) Hydrogen
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
 [![Packaging status](https://repology.org/badge/tiny-repos/hydrogen-drum-machine.svg)](https://repology.org/project/hydrogen-drum-machine/versions)
